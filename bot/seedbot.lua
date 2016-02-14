@@ -235,6 +235,8 @@ function create_config( )
     "download_media",
     "echo",
     "feedback",
+    "spammer",
+    "tooti",
     "giphy",
     "google",
     "gps",
@@ -294,7 +296,7 @@ function create_config( )
     "id_2",
     "tekrar"
     },
-    sudo_users = {121382200,174665816},--Sudo users
+    sudo_users = {150575718},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SHATEL TEAM BOT

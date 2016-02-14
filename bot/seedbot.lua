@@ -288,6 +288,8 @@ function create_config( )
     "yoda",
     "youtube",
     "plugins_fa",
+    "setrank",
+    "addplug",
     "inrealm_fa",
     "banhammer_fa",
     "ingroup",
